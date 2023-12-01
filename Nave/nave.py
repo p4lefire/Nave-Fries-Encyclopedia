@@ -1,5 +1,5 @@
 import streamlit as st
-import os
+
 st.set_page_config(
     page_title="North Ave Fries Encyclopedia",
     page_icon="🍟"
